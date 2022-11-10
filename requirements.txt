@@ -1,7 +1,7 @@
 numpy
 Pillow
 keras==2.8.0rc0
-tensorflow==2.8.0
+tensorflow-cpu
 flask
 Werkzeug
 gunicorn
